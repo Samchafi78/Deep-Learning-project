@@ -2,8 +2,8 @@
 Ce projet implémente une architecture Capsule Network (CapsNet) en utilisant PyTorch pour la classification des chiffres manuscrits du dataset MNIST. Il inclut des techniques d'augmentation de données, un algorithme de routage dynamique et une reconstruction des images pour améliorer la robustesse du modèle.
 
 # Fonctionnalités
-CapsNet avec routing dynamique pour une meilleure représentation des features.
-Reconstruction des images à partir des vecteurs de capsules pour une régularisation supplémentaire.
+CapsNet avec routing dynamique pour une meilleure représentation des features.  
+Reconstruction des images à partir des vecteurs de capsules pour une régularisation supplémentaire.  
 Optimisation avec Adam et choix optimal des hyperparamètres.
 Augmentation des données (translations ±2 pixels) pour améliorer la généralisation.
 
